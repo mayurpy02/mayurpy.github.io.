@@ -3,3 +3,9 @@ title: "My GitHub Blog"
 author: "May"
 description: "A personal blog about embedded systems and technology."
 show_excerpts: true
+
+# Custom CSS
+sass:
+  style: compressed
+  load_paths:
+    - assets/css
