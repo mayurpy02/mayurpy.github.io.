@@ -1,6 +1,6 @@
 ---
 layout: home
-title: mayurpy blog
+title: Mayur's Digital Diary
 ---
 
 
