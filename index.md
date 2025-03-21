@@ -3,6 +3,11 @@ layout: home
 title: Mayur's Digital Diary
 ---
 
+![Welcome Banner](assets/images/welcome-banner.jpg)
+
+# Welcome to My Blog
+
+This is my personal website hosted on GitHub Pages.
 
 <html>
 <head>
