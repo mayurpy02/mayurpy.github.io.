@@ -4,7 +4,6 @@ title: mayurpy blog
 ---
 
 
-<!DOCTYPE html>
 <html>
 <head>
     <title>My Blog</title>
