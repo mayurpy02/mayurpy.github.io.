@@ -1,7 +1,7 @@
 Mayur's Blog – A Digital Diary of Life & Embedded Systems
 📅 March 21, 2025
 
-Hey there! Welcome to my little corner of the internet. This blog is where I share bits of my life, my adventures in embedded systems, and all the random things that make up my world. From debugging tricky code to reflecting on personal experiences, this space will grow and evolve along with me.
+Hey there! Welcome to my little corner of the internet. This blog is where I share bits of my life, my adventures in embedded systems, and all the random things that make up my world. From  learning embedded systems  to reflecting on personal experiences, this space will grow and evolve along with me.
 
 Lately, I’ve been playing around with GitHub Pages and Jekyll, figuring out how to get my blog up and running smoothly. It wasn’t all smooth sailing—I ran into a few hiccups along the way—but seeing it come together has been super exciting.
 
@@ -12,4 +12,4 @@ What’s New?
 
 So, what’s next? More experiments, embedded projects, and stories—both technical and personal. Can’t wait to see where this journey takes me!
 
-🚀 Check out my latest posts here: Mayur's Blog
+
