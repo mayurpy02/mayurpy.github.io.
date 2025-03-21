@@ -1,3 +1,9 @@
+---
+layout: home
+title: My Blog
+---
+
+
 <!DOCTYPE html>
 <html>
 <head>
