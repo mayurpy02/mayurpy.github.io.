@@ -1,5 +1,5 @@
-Mayur's Blog – A Digital Diary of Life & Embedded Systems
-📅 March 21, 2025
+Mayur's Blog – A Digital Diary of Life & Embedded Systems 
+March 21, 2025
 
 Hey there! Welcome to my little corner of the internet. This blog is where I share bits of my life, my adventures in embedded systems, and all the random things that make up my world. From  learning embedded systems  to reflecting on personal experiences, this space will grow and evolve along with me.
 
