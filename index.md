@@ -8,6 +8,9 @@ title: My Blog
 <html>
 <head>
     <title>My Blog</title>
+    <link rel="stylesheet" href="{{ "/assets/css/custom fonts.css" | relative_url }}">
+
+
 </head>
 <body>
     <h1>Welcome to My Blog</h1>
