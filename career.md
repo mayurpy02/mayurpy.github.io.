@@ -2,7 +2,7 @@
 
 <div class="timeline">
   <div class="entry">
-    <h3>2024 - Present: Intern at Vidya Leap</h3>
+    <h3>2024 - Present: Intern at Vidyaleap</h3>
     <p>Gaining experience in embedded systems and networking.</p>
   </div>
   <div class="entry">
@@ -11,7 +11,7 @@
   </div>
   <div class="entry">
     <h3>2024 - Learning TIMSPM0</h3>
-    <p>Worked on routers & OpenWRT, deep-diving into networking.</p>
+    <p>Worked on TI MSPMOG3507 board</p>
   </div>
   <div class="entry">
     <h3>2023 - Started Embedded Systems Journey</h3>
