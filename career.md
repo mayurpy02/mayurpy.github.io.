@@ -1,14 +1,13 @@
----
-layout: page
-title: "My Career Journey"
-permalink: /career/
----
 <h2>🚀 My Career Journey</h2>
 
 <div class="timeline">
   <div class="entry">
-    <h3>2025 - Embedded Systems Engineer</h3>
-    <p>Joined Evobi Automations to work on real-time embedded projects.</p>
+    <h3>2024 - Present: Intern at Vidya Leap</h3>
+    <p>Gaining experience in embedded systems and networking.</p>
+  </div>
+  <div class="entry">
+    <h3>2024 - Graduated from Jain College of Engineering, Belgaum</h3>
+    <p>Earned a degree in Electronics and Communication Engineering.</p>
   </div>
   <div class="entry">
     <h3>2024 - Learning TIMSPM0</h3>
