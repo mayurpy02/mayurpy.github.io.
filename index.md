@@ -10,6 +10,7 @@ title: Mayur's Digital Diary
     <title>My Blog</title>
     <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/custom fonts.css" | relative_url }}">
+  🔗 [View My Career Journey](https://mayurpy02.github.io/mayurpy.github.io./career)
 
 
 </head>
