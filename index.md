@@ -8,6 +8,7 @@ title: Mayur's Digital Diary
 <html>
 <head>
     <title>My Blog</title>
+    <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/custom fonts.css" | relative_url }}">
 
 
