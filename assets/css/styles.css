@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.timeline { 
+  border-left: 3px solid #007acc; 
+  padding-left: 20px; 
+}
+
+.entry { 
+  margin-bottom: 20px; 
+}
+
+.entry h3 { 
+  color: #007acc; 
+  font-weight: 600; /* Makes headers bold */
+}
+
+.entry p { 
+  font-weight: 400; /* Normal text weight */
+}
